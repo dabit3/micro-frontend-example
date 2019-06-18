@@ -19,6 +19,7 @@ yarn
 # or
 
 npm install
+```
 
 3. Start the app
 
